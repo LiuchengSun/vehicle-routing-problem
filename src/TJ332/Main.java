@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         // write your code here
 
-        // ≤‚ ‘operator
+        // ≤‚ ‘
         List<Integer> route = new ArrayList<>();
         for (int i = 0; i < 11 ; i++) route.add(i);
         route.add(0);
